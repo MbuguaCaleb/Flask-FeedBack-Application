@@ -1,7 +1,11 @@
 **Flask feedback App**
 
 ```
-Python feedback application deployed in Heroku..
+Lerning to build a Python WebApp in flask.
+Which will connect to a database, submit formdata and send
+an email using SMTP
+It is deployed in Heroku
+Application will also be able to send an email...
 
 ```
 
@@ -16,6 +20,9 @@ to send emails before you create an email client..
 
 
 (b)Deploying a flask app/python application to Heroku
+
+Once we delpoy we are going to create a production database
+
 
 You must have a heroku account so as to deploy your application into Heroku
 
