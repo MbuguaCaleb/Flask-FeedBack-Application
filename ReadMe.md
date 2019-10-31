@@ -31,3 +31,52 @@ You must have a heroku account so as to deploy your application into Heroku
 
 
 ```
+
+**Basic Commands(Notes)**
+
+```
+(a)Installing a virtual environment with PIP ENV..!
+
+(python package manager pip)
+
+
+sudo pip install pipenv
+
+Virtual enviroment works such that when we install packages they get installed in our virtual environment instead of the global sytem.
+
+
+
+(b)Running the virtual environment
+
+(pipenv shell)
+This command activates the virtual environment and creates a pipev file where all packages are stored
+
+
+(c)An ORM is like an abstract layer to work with our database ..an example is flask-sqlalchmey(ORM Enable us work  with models)
+
+```
+
+**PROJECT PACKAGES**
+
+```
+
+pipenv install flask
+
+pipenv install psycopg2
+
+pipenv install psycopg2-binary
+
+pipenv install flask-sqlalchemy
+
+pipenv install gunicorn
+
+```
+
+**Important**
+
+```
+Selecting the correct interpreter...
+
+(shift+ctrl+p) and select python intepreter.
+
+```
