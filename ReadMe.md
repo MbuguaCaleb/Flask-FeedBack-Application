@@ -96,4 +96,14 @@ It is  more like nodemon in nodeJS!!
 
 (d)print in python is like console.log..It returns the data to the console
 
+(e)Python does not have pre variable declaration!
+Heroku database employed is different from the one used locally
+
+You do not change your queries when using an ORM regardless of the database that you are using..!!WOW.
+
+SQLALCHEMY works by creating models just like any other ORM would!Similar to Mongoose or sequalize!
+
+Class instance is used to create a table via an ORM!!
+A class always needs a constructor which is the initializer!!
+
 ```
