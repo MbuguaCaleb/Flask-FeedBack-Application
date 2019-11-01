@@ -90,4 +90,10 @@ Selecting the correct interpreter...
 (b)app.debug has been set to true since we are in development and we want the app to keep reloading
 It is  more like nodemon in nodeJS!!
 
+
+(c)ID is when working with Jquery...
+  And name property is what is submitted via a form as form data.
+
+(d)print in python is like console.log..It returns the data to the console
+
 ```
