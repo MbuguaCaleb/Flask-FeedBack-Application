@@ -80,3 +80,14 @@ Selecting the correct interpreter...
 (shift+ctrl+p) and select python intepreter.
 
 ```
+
+**Folder structure**
+
+```
+(a)app.py -The entry point of the application.
+
+
+(b)app.debug has been set to true since we are in development and we want the app to keep reloading
+It is  more like nodemon in nodeJS!!
+
+```
