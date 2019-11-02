@@ -106,4 +106,11 @@ SQLALCHEMY works by creating models just like any other ORM would!Similar to Mon
 Class instance is used to create a table via an ORM!!
 A class always needs a constructor which is the initializer!!
 
+(f)f strings are like template literals in javascript
+
+(g)Sending mails with Mailtrap is awesome.depending on the server the credentials slightly
+change..example mailtrap and gmail
+
+
+
 ```
