@@ -17,6 +17,7 @@ heroku addons:create heroku-postgresql:hobby-dev --app lexusfeedbackappbycaleb
 refers To->
 heroku addons:create heroku-postgresql:hobby-dev --app appname
 
+heroku-postgresql:hobby-dev --lexusfeedbackbycaleb
 (iv)Getting APP URI
 
 
