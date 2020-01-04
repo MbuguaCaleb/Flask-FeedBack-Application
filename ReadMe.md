@@ -1,3 +1,7 @@
+**Deployed app URL**
+
+[https://lexusfeedbackappbycaleb.herokuapp.com/](https://lexusfeedbackappbycaleb.herokuapp.com/)
+
 **Flask feedback App**
 
 ```
@@ -113,11 +117,6 @@ change..example mailtrap and gmail
 
 (h)creating a requireents file for the application requirements..
 ```
-
-**Deployed app URL**
-
-[https://lexusfeedbackappbycaleb.herokuapp.com/](https://lexusfeedbackappbycaleb.herokuapp.com/)
-
 
 **Notes**
 
